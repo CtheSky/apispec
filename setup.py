@@ -6,7 +6,7 @@ EXTRAS_REQUIRE = {
     "validation": ["prance[osv]>=0.11"],
     "lint": ["flake8==3.8.3", "flake8-bugbear==20.1.4", "pre-commit~=2.4"],
     "docs": [
-        "marshmallow>=2.19.2",
+        "marshmallow>=3.0.0",
         "pyyaml==5.3.1",
         "sphinx==3.1.2",
         "sphinx-issues==1.2.0",
